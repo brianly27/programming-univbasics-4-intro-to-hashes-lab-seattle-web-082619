@@ -4,7 +4,7 @@ end
 
 def my_hash
   # return a valid hash with h key/value pair of your choice
-  hash = {key:value}
+  hash = {key:"value"}
 end
 
 def pioneer
